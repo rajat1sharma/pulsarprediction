@@ -1,4 +1,6 @@
 # pulsarprediction
+A Machine Learning Project to predict: whether star is pulsar or not (1 means star is pulsar and 0 means star is not pulsar)
+
 Dataset Description
 Pulsars are a rare type of Neutron star that produce radio
 emission detectable here on Earth. They are of considerable scientific
